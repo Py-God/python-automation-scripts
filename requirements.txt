@@ -1,0 +1,13 @@
+beautifulsoup4
+openpyxl
+PyPDF2
+python-docx
+requests
+selenium
+pyperclip
+pyinputplus
+pillow
+pyautogui
+send2trash
+imapclient
+twilio
